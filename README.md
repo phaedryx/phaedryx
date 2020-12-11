@@ -20,6 +20,7 @@
 ![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite&style=flat-square)
 ![Redis](https://img.shields.io/badge/Database-Redis-DC382D?logo=redis&style=flat-square)
 ![RabbitMQ](https://img.shields.io/badge/Message%20Broker-RabbitMQ-FF6600?logo=rabbitmq&style=flat-square)
+![AWS](https://img.shields.io/badge/PaaS-AWS-232F3E?logo=amazon+aws&style=flat-square)
 ![Sass](https://img.shields.io/badge/CSS%20Preprocessor-Sass-CC6699?logo=sass&style=flat-square)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&style=flat-square)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&style=flat-square)
@@ -31,4 +32,4 @@
 ![Debian](https://img.shields.io/badge/Operating%20System-Debian-A81D33?logo=debian&style=flat-square)
 ![Elementary](https://img.shields.io/badge/Operating%20System-Elementary-64BAFF?logo=elementary&style=flat-square)
 ![Heroku](https://img.shields.io/badge/PaaS-Heroku-430098?logo=heroku&style=flat-square)
-![AWS](https://img.shields.io/badge/PaaS-AWS-232F3E?logo=amazon+aws&style=flat-square)
+
