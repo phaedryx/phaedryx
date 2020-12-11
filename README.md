@@ -36,7 +36,7 @@
       <img src="https://img.shields.io/badge/API%20Client-Insomnia-5849BE?logo=insomnia&style=flat-square" /><br>
       <img src="https://img.shields.io/badge/Entertainment-Steam-000000?logo=Steam&style=flat-square" /><br>
     </td>
-    <td>
+    <td valign="top">
       <img src="https://img.shields.io/badge/Operating%20System-MacOS-999999?logo=apple&style=flat-square" /><br>
       <img src="https://img.shields.io/badge/Operating%20System-Linux-FCC624?logo=linux&style=flat-square" /><br>
       <img src="https://img.shields.io/badge/Operating%20System-Debian-A81D33?logo=debian&style=flat-square" /><br>
