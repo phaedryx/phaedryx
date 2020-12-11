@@ -1,2 +1,2 @@
 ### Webby Goodness
-<script></script>
+
