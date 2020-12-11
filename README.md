@@ -2,4 +2,13 @@
 
 #### Technologies and Tools
 
-![ruby](https://img.shields.io/badge/Language-Ruby-b71508?logo=ruby&style=flat-square) &nbsp; ![javascript](https://img.shields.io/badge/Language-JavaScript-f7df1e?logo=javascript&style=flat-square) &nbsp; ![Vue](https://img.shields.io/badge/Framework-Vue-3fb27f?logo=vue.js&style=flat-square) &nbsp; ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-31648c?logo=postgresql&style=flat-square) &nbsp; ![PostgreSQL](https://img.shields.io/badge/Database-Redis-dc382d?logo=redis&style=flat-square)
+![ruby](https://img.shields.io/badge/Language-Ruby-CC342D?logo=ruby&style=flat-square)
+![Ruby on Rails](https://img.shields.io/badge/Framework-Rails-CC0000?logo=ruby+on+rails&style=flat-square)
+![Jekyll](https://img.shields.io/badge/Framework-Jekyll-CC0000?logo=jekyll&style=flat-square)
+![javascript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&style=flat-square)
+![Vue](https://img.shields.io/badge/Framework-Vue-3fb27f?logo=vue.js&style=flat-square)
+![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&style=flat-square)
+![Redis](https://img.shields.io/badge/Database-Redis-DC382D?logo=Redis&style=flat-square)
+![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&style=flat-square)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visual+studio+code&style=flat-square)
