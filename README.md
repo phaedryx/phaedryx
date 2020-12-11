@@ -1,7 +1,10 @@
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=phaedryx&count_private=true&show_icons=true&bg_color=434A54&icon_color=FFCE54&title_color=77B6FF&text_color=F5F7FA)
 
 <table>
+  <thead>
   <tr><th>Languages</th><th>Frameworks</th><th>Data</th><th>Tools</th><th>Systems</th></tr>
+  </thead>
+  <tbody>
   <tr>
     <td valign="top">
       <img src="https://img.shields.io/badge/WWW-HTML5-E34F26?logo=html5&style=flat-square" /><br>
@@ -44,6 +47,7 @@
       <img src="https://img.shields.io/badge/PaaS-AWS-232F3E?logo=amazon+aws&style=flat-square" /><br>
     </td>
   </tr>
+  </tbody>
 </table>
 
 
