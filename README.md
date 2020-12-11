@@ -14,6 +14,7 @@
 ![Jekyll](https://img.shields.io/badge/Framework-Jekyll-CC0000?logo=jekyll&style=flat-square)
 ![Vue](https://img.shields.io/badge/Framework-Vue-3fb27f?logo=vue.js&style=flat-square)
 ![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react&style=flat-square)
+![Jest](https://img.shields.io/badge/Framework-Jest-C21325?logo=jest&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-563D7C?logo=bootstrap&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&style=flat-square)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite&style=flat-square)
