@@ -1,13 +1,20 @@
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=phaedryx&count_private=true&show_icons=true&bg_color=434A54&icon_color=FFCE54&title_color=77B6FF&text_color=F5F7FA)
 
-#### Technologies and Tools
+<table>
+  <tr><th>Languages</th><th>Frameworks</th><th>Data Storage</th><th>Tools</th><th>Systems</th></tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/WWW-HTML5-E34F26?logo=html5&style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/WWW-HTML5-E34F26?logo=html5&style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/WWW-CSS3-1572B6?logo=css3&style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Language-Ruby-CC342D?logo=ruby&style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Language-SQL-green?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Language-GraphQL-E10098?logo=graphql&style=flat-square" /><br>
+    </td>
+  </tr>
+</table>
 
-![HTML](https://img.shields.io/badge/WWW-HTML5-E34F26?logo=html5&style=flat-square)
-![CSS3](https://img.shields.io/badge/WWW-CSS3-1572B6?logo=css3&style=flat-square)
-![ruby](https://img.shields.io/badge/Language-Ruby-CC342D?logo=ruby&style=flat-square)
-![javascript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&style=flat-square)
-![SQL](https://img.shields.io/badge/Language-SQL-green?style=flat-square)
-![graphql](https://img.shields.io/badge/Language-GraphQL-E10098?logo=graphql&style=flat-square)
 ![JSON](https://img.shields.io/badge/Format-JSON-000000?logo=json&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/Framework-Tailwind%20CSS-38B2AC?logo=tailwind+css&style=flat-square)
 ![Ruby on Rails](https://img.shields.io/badge/Framework-Rails-CC0000?logo=ruby+on+rails&style=flat-square)
