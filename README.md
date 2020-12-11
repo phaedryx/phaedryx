@@ -23,7 +23,7 @@
 ![AWS](https://img.shields.io/badge/PaaS-AWS-232F3E?logo=amazon+aws&style=flat-square)
 ![Sass](https://img.shields.io/badge/CSS%20Preprocessor-Sass-CC6699?logo=sass&style=flat-square)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&style=flat-square)
-![Steam](https://img.shields.io/badge/Fun-Steam-000000?logo=Steam&style=flat-square)
+![Steam](https://img.shields.io/badge/Entertainment-Steam-000000?logo=Steam&style=flat-square)
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visual+studio+code&style=flat-square)
 ![Sketch](https://img.shields.io/badge/Design-Sketch-F7B500?logo=sketch&style=flat-square)
 ![Insomnia](https://img.shields.io/badge/API%20Client-Insomnia-5849BE?logo=insomnia&style=flat-square)
