@@ -2,4 +2,4 @@
 
 #### Technologies and Tools
 
-![ruby](https://img.shields.io/badge/Language-Ruby-b71508?logo=ruby&style=flat-square) ![javascript](https://img.shields.io/badge/Language-JavaScript-f7df1e?logo=javascript&style=flat-square) ![Vue](https://img.shields.io/badge/Framework-Vue-3fb27f?logo=vue.js&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-31648c?logo=postgresql&style=flat-square) ![PostgreSQL](https://img.shields.io/badge/Database-Redis-dc382d?logo=redis&style=flat-square)
+![ruby](https://img.shields.io/badge/Language-Ruby-b71508?logo=ruby&style=flat-square) &nbsp; ![javascript](https://img.shields.io/badge/Language-JavaScript-f7df1e?logo=javascript&style=flat-square) &nbsp; ![Vue](https://img.shields.io/badge/Framework-Vue-3fb27f?logo=vue.js&style=flat-square) &nbsp; ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-31648c?logo=postgresql&style=flat-square) &nbsp; ![PostgreSQL](https://img.shields.io/badge/Database-Redis-dc382d?logo=redis&style=flat-square)
