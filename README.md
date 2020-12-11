@@ -2,4 +2,4 @@
 
 #### Technologies and Tools
 
-![ruby](https://img.shields.io/badge/Ruby-Language-a51401?logo=ruby) ![javascript](https://img.shields.io/badge/JavaScript-Language-f7df1e?logo=javascript) ![Vue](https://img.shields.io/badge/Vue-Framework-3fb27f?logo=vue.js)
+![ruby](https://img.shields.io/badge/Ruby-Language-b71508?logo=ruby) ![javascript](https://img.shields.io/badge/JavaScript-Language-f7df1e?logo=javascript) ![Vue](https://img.shields.io/badge/Vue-Framework-3fb27f?logo=vue.js)
