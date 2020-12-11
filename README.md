@@ -26,6 +26,7 @@
 ![Insomnia](https://img.shields.io/badge/API%20Client-Insomnia-5849BE?logo=insomnia&style=flat-square)
 ![MacOS](https://img.shields.io/badge/Operating%20System-MacOS-999999?logo=apple&style=flat-square)
 ![Linux](https://img.shields.io/badge/Operating%20System-Linux-FCC624?logo=linux&style=flat-square)
+![Debian](https://img.shields.io/badge/Operating%20System-Debian-A81D33?logo=debian&style=flat-square)
 ![Elementary](https://img.shields.io/badge/Operating%20System-Elementary-64BAFF?logo=elementary&style=flat-square)
 ![Heroku](https://img.shields.io/badge/PaaS-Heroku-430098?logo=heroku&style=flat-square)
 ![AWS](https://img.shields.io/badge/PaaS-AWS-232F3E?logo=amazon+aws&style=flat-square)
