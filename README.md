@@ -8,6 +8,7 @@
 ![javascript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&style=flat-square)
 ![SQL](https://img.shields.io/badge/Language-SQL-green?style=flat-square)
 ![graphql](https://img.shields.io/badge/Language-GraphQL-E10098?logo=graphql&style=flat-square)
+![JSON](https://img.shields.io/badge/Format-JSON-000000?logo=json&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/Framework-Tailwind%20CSS-38B2AC?logo=tailwind+css&style=flat-square)
 ![Ruby on Rails](https://img.shields.io/badge/Framework-Rails-CC0000?logo=ruby+on+rails&style=flat-square)
 ![Jekyll](https://img.shields.io/badge/Framework-Jekyll-CC0000?logo=jekyll&style=flat-square)
