@@ -28,7 +28,6 @@
       <img src="https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite&style=flat-square" /><br>
       <img src="https://img.shields.io/badge/Database-Redis-DC382D?logo=redis&style=flat-square" /><br>
       <img src="https://img.shields.io/badge/Message%20Broker-RabbitMQ-FF6600?logo=rabbitmq&style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Format-JSON-000000?logo=json&style=flat-square" /><br>
       <img src="https://img.shields.io/badge/CSS%20Preprocessor-Sass-CC6699?logo=sass&style=flat-square" /><br>
       <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&style=flat-square" /><br>
       <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visual+studio+code&style=flat-square" /><br>
