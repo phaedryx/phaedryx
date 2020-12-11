@@ -5,7 +5,6 @@
   <tr>
     <td>
       <img src="https://img.shields.io/badge/WWW-HTML5-E34F26?logo=html5&style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/WWW-HTML5-E34F26?logo=html5&style=flat-square" /><br>
       <img src="https://img.shields.io/badge/WWW-CSS3-1572B6?logo=css3&style=flat-square" /><br>
       <img src="https://img.shields.io/badge/Language-Ruby-CC342D?logo=ruby&style=flat-square" /><br>
       <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?logo=javascript&style=flat-square" /><br>
