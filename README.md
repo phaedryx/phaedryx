@@ -20,7 +20,7 @@
       <img src="https://img.shields.io/badge/JavaScript-434a54?logo=javascript&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/CoffeeScript-434a54?logo=coffeescript&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/Lua-434a54?logo=lua&style=flat-square&logoColor=FFFFFF" /><br>
-      <img src="https://img.shields.io/badge/SQL-434a54?style=flat-square&logoColor=FFFFFF" /><br>
+      <img src="https://img.shields.io/badge/SQL-434a54?logo=scala&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/GraphQL-434a54?logo=graphql&style=flat-square&logoColor=FFFFFF" /><br>
     </td>
     <td valign="top">
