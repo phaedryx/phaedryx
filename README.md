@@ -50,6 +50,8 @@
       <img src="https://img.shields.io/badge/Sass-434a54?logo=sass&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/Font_Awesome-434a54?logo=font+awesome&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/Git-434a54?logo=git&style=flat-square&logoColor=FFFFFF" /><br>
+    </td>
+    <td valign="top">
       <img src="https://img.shields.io/badge/VS_Code-434a54?logo=visual+studio+code&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/Atom-434a54?logo=atom&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/Sketch-434a54?logo=sketch&style=flat-square&logoColor=FFFFFF" /><br>
