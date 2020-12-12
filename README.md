@@ -2,7 +2,7 @@
 
 <table>
   <thead>
-  <tr><th>Languages</th><th>Frameworks</th><th>Tools</th><th>Systems</th></tr>
+    <tr><th>Languages</th><th>Frameworks</th><th>Data</th><th>Tools</th><th>Systems</th></tr>
   </thead>
   <tbody>
   <tr>
@@ -28,6 +28,8 @@
       <img src="https://img.shields.io/badge/SQLite-434a54?logo=sqlite&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/Redis-434a54?logo=redis&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/RabbitMQ-434a54?logo=rabbitmq&style=flat-square&logoColor=FFFFFF" /><br>
+    </td>
+    <td valign="top">
       <img src="https://img.shields.io/badge/Sass-434a54?logo=sass&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/Git-434a54?logo=git&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/VS%20Code-434a54?logo=visual+studio+code&style=flat-square&logoColor=FFFFFF" /><br>
