@@ -7,6 +7,7 @@
       <th align="left">Frameworks</th>
       <th align="left">Data</th>
       <th align="left">Tools</th>
+      <th>Applications</th>
       <th align="left">Systems</th>
       <th align="left">Pastimes</th>
     </tr>
