@@ -12,19 +12,16 @@
 </p>
 
 <table>
-  <br>
-  <thead>
-    <tr>
-      <th align="left">Languages</th>
-      <th align="left">Frameworks</th>
-      <th align="left">Data</th>
-      <th align="left">Tools</th>
-      <th>Applications</th>
-      <th align="left">Systems</th>
-      <th align="left">Pastimes</th>
-    </tr>
-  </thead>
-  <tbody>
+  <tr></tr>
+  <tr>
+    <th align="left">Languages</th>
+    <th align="left">Frameworks</th>
+    <th align="left">Data</th>
+    <th align="left">Tools</th>
+    <th>Applications</th>
+    <th align="left">Systems</th>
+    <th align="left">Pastimes</th>
+  </tr>
   <tr>
     <td valign="top">
       <img src="https://img.shields.io/badge/HTML5-434a54?logo=html5&style=flat-square&logoColor=FFFFFF" /><br>
@@ -92,7 +89,6 @@
       <img src="https://img.shields.io/badge/Webtoon-434a54?logo=line+webtoon&style=flat-square&logoColor=FFFFFF" /><br>
     </td>
   </tr>
-  </tbody>
 </table>
 
 
