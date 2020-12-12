@@ -12,6 +12,7 @@
 </p>
 
 <table>
+  <br>
   <tr></tr>
   <tr>
     <th align="left">Languages</th>
