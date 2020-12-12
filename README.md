@@ -1,8 +1,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=phaedryx&count_private=true&show_icons=true&bg_color=434A54&icon_color=FFCE54&title_color=77B6FF&text_color=F5F7FA" />
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/twitter.svg" height="12" margin="0" /> <a href="https://twitter.com/phaedryx">@phaedryx</a>
-<br>
-<br>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/twitter.svg" height="12" /> <a href="https://twitter.com/phaedryx">https://twitter.com/phaedryx</a><br>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" height="12" /> <a href="https://www.linkedin.com/in/tadthorley">https://www.linkedin.com/in/tadthorley</a><br>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/regular/hand-lizard.svg" height="12" /> <a href="https://tad.thorley.dev">https://tad.thorley.dev</a><br>
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/tumblr-square.svg" height="12" /> <a href="https://tadthorley.com">https://tadthorley.com</a>
 <br>
 <br>
 <br>
