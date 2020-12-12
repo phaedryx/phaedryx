@@ -1,4 +1,4 @@
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=phaedryx&count_private=true&show_icons=true&bg_color=434A54&icon_color=FFCE54&title_color=77B6FF&text_color=F5F7FA)
+<img src="https://github-readme-stats.vercel.app/api?username=phaedryx&count_private=true&show_icons=true&bg_color=434A54&icon_color=FFCE54&title_color=77B6FF&text_color=F5F7FA" />
 
 <table>
   <thead>
