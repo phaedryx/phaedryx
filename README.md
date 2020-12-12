@@ -53,7 +53,6 @@
       <img src="https://img.shields.io/badge/Atom-434a54?logo=atom&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/Sketch-434a54?logo=sketch&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/Insomnia-434a54?logo=insomnia&style=flat-square&logoColor=FFFFFF" /><br>
-      <img src="https://img.shields.io/badge/Firefox-434a54?logo=firefox&style=flat-square&logoColor=FFFFFF" /><br>
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/MacOS-434a54?logo=apple&style=flat-square&logoColor=FFFFFF" /><br>
