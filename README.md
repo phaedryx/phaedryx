@@ -87,7 +87,7 @@
       <img src="https://img.shields.io/badge/Meetup-434a54?logo=meetup&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/Steam-434a54?logo=steam&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/Minecraft-434a54?logo=minecraft&style=flat-square&logoColor=FFFFFF" /><br>
-      <img src="https://img.shields.io/badge/Humble_Bundle-434a54?logo=humble+bundle&style=flat-square&logoColor=FFFFFF" /><br>
+      <img src="https://img.shields.io/badge/Humble-434a54?logo=humble+bundle&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/Pluralsight-434a54?logo=pluralsight&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/Webtoon-434a54?logo=line+webtoon&style=flat-square&logoColor=FFFFFF" /><br>
     </td>
