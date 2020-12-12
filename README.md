@@ -1,6 +1,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=phaedryx&count_private=true&show_icons=true&bg_color=434A54&icon_color=FFCE54&title_color=77B6FF&text_color=F5F7FA" />
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/lemon.svg" height="12" margin="0" /> Placeholder lemon
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/twitter.svg" height="12" margin="0" /> <a href="https://twitter.com/phaedryx">@phaedryx</a>
 <br>
 <br>
 <br>
