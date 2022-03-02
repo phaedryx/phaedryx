@@ -49,6 +49,7 @@
       <img src="https://img.shields.io/badge/Redis-434a54?logo=redis&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/RabbitMQ-434a54?logo=rabbitmq&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/MySQL-434a54?logo=mysql&style=flat-square&logoColor=FFFFFF" /><br>
+      <img src="https://img.shields.io/badge/Kafka-434a54?logo=graphql&style=flat-square&logoColor=FFFFFF" /><br>
       <img src="https://img.shields.io/badge/JSON-434a54?logo=json&style=flat-square&logoColor=FFFFFF" /><br>
     </td>
     <td valign="top">
