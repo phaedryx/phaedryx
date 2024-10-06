@@ -3,7 +3,6 @@
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/linkedin.svg" height="12" /> <a href="https://www.linkedin.com/in/tadthorley">https://www.linkedin.com/in/tadthorley</a><br>
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/regular/hand-lizard.svg" height="9" /> <a href="https://tad.thorley.dev">https://tad.thorley.dev</a><br>
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/regular/hand-point-right.svg" height="12" /> <a href="http://merryquizmas.com/">http://merryquizmas.com</a><br>
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/regular/hand-point-right.svg" height="12" /> <a href="https://techadequiz.com">https://techadequiz.com</a><br>
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/tumblr-square.svg" height="12" /> <a href="https://tadthorley.com">https://tadthorley.com</a>
 <br>
 <br>
